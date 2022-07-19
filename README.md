@@ -7,6 +7,6 @@ Paper on arxiv is coming soon
 
 ## Get Started
 ### Dependencies
-Python 3.8.8  
-pytorch 1.9.1  
-Cuda 11.1
+ 1 Python 3.8.8  
+ 2 pytorch 1.9.1  
+ 3 Cuda 11.1
