@@ -74,7 +74,7 @@ def outlier_test(seq, seq_remains):
     return bool_out
 
 
-path = 'SDD_ini/annotations'
+path = 'annotations/'
 scenes = os.listdir(path)
 obs_len = 8
 pred_len = 12
@@ -237,7 +237,7 @@ for scene in scenes:
             all_first_part = ['empty']
             print('check for validation')
 
-        save_name = 'data/SDD/' + scene + video + '.pickle'
+        save_name = '../SDD/' + scene + video + '.pickle'
 
         with open(save_name, 'wb') as f:
             pickle.dump([seq_list_complete, supplement, all_first_part, seq_list_setinfo], f)
