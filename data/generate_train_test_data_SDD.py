@@ -246,9 +246,3 @@ for scene in scenes:
 
 
 
-
-
-#return seq_list_complete_scaled, supplement #peds*20*4, peds*20*(maxpeds+1)*4
-
-
-
