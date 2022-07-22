@@ -88,7 +88,7 @@ num_success = 0
 # costheta = np.cos(theta)
 label_set = 0
 for scene in scenes:
-    scene_path = path + '/' + scene
+    scene_path = path + scene
     all_videos = os.listdir(scene_path)
     for video in all_videos:
         label_set += 1
