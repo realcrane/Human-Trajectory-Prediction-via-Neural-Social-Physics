@@ -5,11 +5,11 @@ import os
 data = []
 class_dic = {'Biker': 0, 'Pedestrian': 1, 'Skater': 2, 'Cart': 3, 'Car': 4, 'Bus': 5}
 step = 12
-path = 'SDD_ini/annotations'
+path = 'annotations/'
 scenes = os.listdir(path)
 SDD_cols = ['trackId', 'xmin', 'ymin', 'xmax', 'ymax', 'frame', 'lost', 'occluded', 'generated', 'label']
 for scene in scenes:
-    scene_path = path + '/' + scene
+    scene_path = path  + scene
     all_videos = os.listdir(scene_path)
     for video in all_videos:
         video_path = scene_path + '/' + video
