@@ -19,7 +19,7 @@ fdim: 16
 future_length: 12
 gpu_index: 0
 kld_reg: 1
-learning_rate: 0.00003
+learning_rate: 0.0000003
 mu: 0
 n_values: 20
 normalize_type: shift_origin
