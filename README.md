@@ -31,21 +31,16 @@ Project Webpage: http://drhewang.com/pages/NSP.html
 If you have any questions, please feel free to contact me: Jiangbei Yue (scjy@leeds.ac.uk)  
 
 ### Acknowledgement  
-[CrowdDNA](https://crowddna.eu/)  
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 899739 [CrowdDNA](https://crowddna.eu/).  
 
 ### Citation (Bibtex)  
 Please cite our paper if you find it useful:
 ```
-@misc{https://doi.org/10.48550/arxiv.2207.10435,
-  doi = {10.48550/ARXIV.2207.10435},
-  url = {https://arxiv.org/abs/2207.10435},
-  author = {Yue, Jiangbei and Manocha, Dinesh and Wang, He},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Human Trajectory Prediction via Neural Social Physics},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
-}
+@InProceedings{Jiang_trajectory_2022,
+author={J. {Yue} and D. {Manocha} and H. {Wang}},
+booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+title={Human Trajectory Prediction via Neural Social Physics},
+year={2022}}
 ```  
 
 ### License  
