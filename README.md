@@ -24,7 +24,7 @@ For example
 ### Authors  
 Jiangbei Yue, Dinesh Manocha and He Wang  
 Jiangbei Yue scjy@leeds.ac.uk  
-He Wang, h.e.wang@leeds.ac.uk, [Personal Site](http://drhewang.com/)  
+He Wang, he_wang@@ucl.ac.uk, [Personal Site](http://drhewang.com/)  
 Project Webpage: http://drhewang.com/pages/NSP.html  
 
 ### Contact  
